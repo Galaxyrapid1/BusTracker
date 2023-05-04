@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bus Tracker</string>
+    <string name="add_new_driver">Add New Driver</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_a_password">Enter a Password</string>
+    <string name="add_new_rider">Add New Rider</string>
+    <string name="save_rider">Save Rider</string>
+    <string name="enter_route_number">Enter Route Number</string>
+    <string name="save_driver">Save Driver</string>
+</resources>
